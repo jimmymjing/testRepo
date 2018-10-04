@@ -1,0 +1,5 @@
+this is file1.
+
+中文测试。
+
+done.
