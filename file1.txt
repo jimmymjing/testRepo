@@ -1,5 +1,7 @@
+modified.
+
 this is file1.
 
-中文测试。
+文测试。
 
 done.
